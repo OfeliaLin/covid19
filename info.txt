@@ -1,0 +1,2 @@
+temperature_tw	https://codis.cwa.gov.tw/
+covid_19_tw	https://data.gov.tw/dataset/120451
