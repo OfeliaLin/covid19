@@ -27,4 +27,4 @@ This repository contains Python code for analyzing the relationship between COVI
 3. Run the Python script (`covid_temperature_analysis.py`) to perform the analysis.
 
 ## Contributors
-- [Ofelia Lin] ([covid19]([https://github.com/your_username](https://github.com/OfeliaLin/covid19/blob/main/The%20relation%20between%20temperature%20and%20Covid19%20.ipynb)https://github.com/OfeliaLin/covid19/blob/main/The%20relation%20between%20temperature%20and%20Covid19%20.ipynb))
+- [Ofelia Lin] ([covid19](https://github.com/OfeliaLin/covid19/blob/main/The%20relation%20between%20temperature%20and%20Covid19%20.ipynb)
